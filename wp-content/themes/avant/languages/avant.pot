@@ -1,0 +1,1614 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Avant\n"
+"POT-Creation-Date: 2017-12-19 13:23+0200\n"
+"PO-Revision-Date: 2016-08-27 13:55+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_n:1,2;__ngettext:1,2;"
+"__ngettext_noop:1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;"
+"esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: js\n"
+
+#: 404.php:18 customizer/customizer-options.php:1116
+msgid "Oops! <span>404</span>"
+msgstr ""
+
+#: 404.php:21 customizer/customizer-options.php:1123
+msgid ""
+"It looks like that page does not exist. <br />Return home or try a search"
+msgstr ""
+
+#: comments.php:38 comments.php:59
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:41 comments.php:62
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:42 comments.php:63
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:75
+msgid "Comments are closed."
+msgstr ""
+
+#: customizer/customizer-library/extensions/fonts.php:18
+msgid "Standard Fonts"
+msgstr ""
+
+#: customizer/customizer-library/extensions/fonts.php:20
+msgid "Google Fonts"
+msgstr ""
+
+#: customizer/customizer-library/extensions/fonts.php:125
+msgid "All"
+msgstr ""
+
+#: customizer/customizer-library/extensions/fonts.php:126
+msgid "Cyrillic"
+msgstr ""
+
+#: customizer/customizer-library/extensions/fonts.php:127
+msgid "Cyrillic Extended"
+msgstr ""
+
+#: customizer/customizer-library/extensions/fonts.php:128
+msgid "Devanagari"
+msgstr ""
+
+#: customizer/customizer-library/extensions/fonts.php:129
+msgid "Greek"
+msgstr ""
+
+#: customizer/customizer-library/extensions/fonts.php:130
+msgid "Greek Extended"
+msgstr ""
+
+#: customizer/customizer-library/extensions/fonts.php:131
+msgid "Khmer"
+msgstr ""
+
+#: customizer/customizer-library/extensions/fonts.php:132
+msgid "Latin"
+msgstr ""
+
+#: customizer/customizer-library/extensions/fonts.php:133
+msgid "Latin Extended"
+msgstr ""
+
+#: customizer/customizer-library/extensions/fonts.php:134
+msgid "Vietnamese"
+msgstr ""
+
+#: customizer/customizer-library/extensions/fonts.php:194
+msgctxt "font style"
+msgid "Serif"
+msgstr ""
+
+#: customizer/customizer-library/extensions/fonts.php:198
+msgctxt "font style"
+msgid "Sans Serif"
+msgstr ""
+
+#: customizer/customizer-library/extensions/fonts.php:202
+msgctxt "font style"
+msgid "Monospaced"
+msgstr ""
+
+#: customizer/customizer-options.php:37
+msgid "Site Identity"
+msgstr ""
+
+#: customizer/customizer-options.php:44
+msgid "Site Title top padding"
+msgstr ""
+
+#: customizer/customizer-options.php:51
+msgid "Site Title bottom padding"
+msgstr ""
+
+#: customizer/customizer-options.php:58
+msgid "Set a max-width for the logo"
+msgstr ""
+
+#: customizer/customizer-options.php:61
+msgid "This only applies if a logo image is uploaded"
+msgstr ""
+
+#: customizer/customizer-options.php:68
+msgid "Avant Theme Settings"
+msgstr ""
+
+#: customizer/customizer-options.php:76 customizer/customizer-options.php:95
+msgid "Site Layout"
+msgstr ""
+
+#: customizer/customizer-options.php:84
+msgid "Remove Top Border"
+msgstr ""
+
+#: customizer/customizer-options.php:90
+msgid "Boxed Layout"
+msgstr ""
+
+#: customizer/customizer-options.php:91
+msgid "Full Width Layout"
+msgstr ""
+
+#: customizer/customizer-options.php:103
+msgid "Remove Content Background & Borders"
+msgstr ""
+
+#: customizer/customizer-options.php:110
+msgid "Add Sidebar divider line"
+msgstr ""
+
+#: customizer/customizer-options.php:119
+msgid ""
+"<b>Premium Extra Features:</b><br />- Add Title & Tagline with uploaded logo "
+"and adjust<br />- Set custom website container width<br />- Set custom "
+"Sidebar width<br />- Change Site Attribution text"
+msgstr ""
+
+#: customizer/customizer-options.php:127 customizer/customizer-options.php:887
+#: customizer/customizer-options.php:1060
+msgid "Header"
+msgstr ""
+
+#: customizer/customizer-options.php:135
+msgid "Remove Top Bar"
+msgstr ""
+
+#: customizer/customizer-options.php:142
+msgid "Switch Top Bar"
+msgstr ""
+
+#: customizer/customizer-options.php:148
+msgid "Default Header"
+msgstr ""
+
+#: customizer/customizer-options.php:149
+msgid "Centered Header"
+msgstr ""
+
+#: customizer/customizer-options.php:150
+msgid "Centered Header Social"
+msgstr ""
+
+#: customizer/customizer-options.php:151
+msgid "Standard Header"
+msgstr ""
+
+#: customizer/customizer-options.php:152
+msgid "Standard Header Social"
+msgstr ""
+
+#: customizer/customizer-options.php:153
+msgid "Side Layout Header"
+msgstr ""
+
+#: customizer/customizer-options.php:154
+msgid "Transparent Header"
+msgstr ""
+
+#: customizer/customizer-options.php:158
+msgid "Header Layout"
+msgstr ""
+
+#: customizer/customizer-options.php:166
+msgid "Switch Header"
+msgstr ""
+
+#: customizer/customizer-options.php:173
+msgid "Remove Slider Top Space"
+msgstr ""
+
+#: customizer/customizer-options.php:179
+msgid "Align Right"
+msgstr ""
+
+#: customizer/customizer-options.php:180
+msgid "Align Left"
+msgstr ""
+
+#: customizer/customizer-options.php:181
+msgid "Align Center"
+msgstr ""
+
+#: customizer/customizer-options.php:185
+msgid "Navigation Alignment"
+msgstr ""
+
+#: customizer/customizer-options.php:193
+msgid "Menu Button Text"
+msgstr ""
+
+#: customizer/customizer-options.php:197
+msgid "This is the text for the mobile menu button"
+msgstr ""
+
+#: customizer/customizer-options.php:201
+msgid "Remove Search"
+msgstr ""
+
+#: customizer/customizer-options.php:208
+msgid "Remove Phone Number"
+msgstr ""
+
+#: customizer/customizer-options.php:215
+msgid "Remove Address"
+msgstr ""
+
+#: customizer/customizer-options.php:224
+msgid "Remove WooCommerce Cart"
+msgstr ""
+
+#: customizer/customizer-options.php:233
+msgid "Remove Social Icons"
+msgstr ""
+
+#: customizer/customizer-options.php:242
+msgid ""
+"<b>Premium Extra Features:</b><br />- Sticky Navigation<br />- Change "
+"Navigation Styling<br />- Add extra text to the header"
+msgstr ""
+
+#: customizer/customizer-options.php:250
+msgid "Home Page Slider"
+msgstr ""
+
+#: customizer/customizer-options.php:256
+msgid "Default Slider"
+msgstr ""
+
+#: customizer/customizer-options.php:257 customizer/customizer-options.php:278
+msgid "Slider Shortcode"
+msgstr ""
+
+#: customizer/customizer-options.php:258
+msgid "Featured Image"
+msgstr ""
+
+#: customizer/customizer-options.php:259 customizer/customizer-options.php:483
+#: customizer/customizer-options.php:586 customizer/customizer-options.php:634
+msgid "None"
+msgstr ""
+
+#: customizer/customizer-options.php:263
+msgid "Choose a Slider"
+msgstr ""
+
+#: customizer/customizer-options.php:271
+msgid "Slider Categories"
+msgstr ""
+
+#: customizer/customizer-options.php:274
+msgid ""
+"Enter the ID's of the post categories you want to display in the slider. Eg: "
+"\"13,17,19\" (no spaces and only comma's)<br /><br />Get the ID at <b>Posts -"
+"> Categories</b>.<br /><br />Or <a href=\"https://kairaweb.com/documentation/"
+"setting-up-the-default-slider/\" target=\"_blank\"><b>See more instructions "
+"here</b></a>"
+msgstr ""
+
+#: customizer/customizer-options.php:281
+msgid "Enter the shortcode give by the slider."
+msgstr ""
+
+#: customizer/customizer-options.php:285
+msgid "Set slider to full width"
+msgstr ""
+
+#: customizer/customizer-options.php:291
+msgid "Small Slider"
+msgstr ""
+
+#: customizer/customizer-options.php:292
+msgid "Medium Slider"
+msgstr ""
+
+#: customizer/customizer-options.php:293
+msgid "Large Slider"
+msgstr ""
+
+#: customizer/customizer-options.php:297
+msgid "Slider Size"
+msgstr ""
+
+#: customizer/customizer-options.php:304
+msgid "Fade"
+msgstr ""
+
+#: customizer/customizer-options.php:305
+msgid "Cover Fade"
+msgstr ""
+
+#: customizer/customizer-options.php:306
+msgid "Uncover Fade"
+msgstr ""
+
+#: customizer/customizer-options.php:307
+msgid "Cover"
+msgstr ""
+
+#: customizer/customizer-options.php:308
+msgid "Scroll"
+msgstr ""
+
+#: customizer/customizer-options.php:312
+msgid "Slider Scroll Effect"
+msgstr ""
+
+#: customizer/customizer-options.php:320
+msgid "Link Slide to post"
+msgstr ""
+
+#: customizer/customizer-options.php:327
+msgid "Remove Slider Title"
+msgstr ""
+
+#: customizer/customizer-options.php:334
+msgid "Remove Slider Pagination"
+msgstr ""
+
+#: customizer/customizer-options.php:341
+msgid "Stop Auto Scroll"
+msgstr ""
+
+#: customizer/customizer-options.php:348
+msgid "Extra Small Image"
+msgstr ""
+
+#: customizer/customizer-options.php:349
+msgid "Small Image"
+msgstr ""
+
+#: customizer/customizer-options.php:350
+msgid "Medium Image"
+msgstr ""
+
+#: customizer/customizer-options.php:351
+msgid "Large Image"
+msgstr ""
+
+#: customizer/customizer-options.php:352
+msgid "Use Full Image"
+msgstr ""
+
+#: customizer/customizer-options.php:356
+msgid "Image Size"
+msgstr ""
+
+#: customizer/customizer-options.php:364
+msgid "Make Full Width"
+msgstr ""
+
+#: customizer/customizer-options.php:375
+msgid "Blog List"
+msgstr ""
+
+#: customizer/customizer-options.php:381
+msgid "Left Layout"
+msgstr ""
+
+#: customizer/customizer-options.php:382
+msgid "Right Layout"
+msgstr ""
+
+#: customizer/customizer-options.php:383
+msgid "Alternate Layout"
+msgstr ""
+
+#: customizer/customizer-options.php:384
+msgid "Top Layout"
+msgstr ""
+
+#: customizer/customizer-options.php:385
+msgid "Blocks Layout"
+msgstr ""
+
+#: customizer/customizer-options.php:389
+msgid "Blog Posts Layout"
+msgstr ""
+
+#: customizer/customizer-options.php:397
+msgid "Break into Blocks"
+msgstr ""
+
+#: customizer/customizer-options.php:404
+msgid "Square Blocks"
+msgstr ""
+
+#: customizer/customizer-options.php:405
+msgid "Image Shape Blocks"
+msgstr ""
+
+#: customizer/customizer-options.php:409
+msgid "Blog Post Shape"
+msgstr ""
+
+#: customizer/customizer-options.php:417
+msgid "Remove Blocks Border"
+msgstr ""
+
+#: customizer/customizer-options.php:424 customizer/customizer-options.php:513
+msgid "Remove Meta Info"
+msgstr ""
+
+#: customizer/customizer-options.php:431
+msgid "Remove Content"
+msgstr ""
+
+#: customizer/customizer-options.php:438 customizer/customizer-options.php:520
+msgid "Remove Tags & Categories"
+msgstr ""
+
+#: customizer/customizer-options.php:445
+msgid "Exclude Blog Categories"
+msgstr ""
+
+#: customizer/customizer-options.php:448
+msgid ""
+"Enter the ID's of the post categories you'd like to EXCLUDE from the Blog, "
+"enter only the ID's with a minus sign (-) before them, separated by a comma "
+"(,)<br />Eg: \"-13, -17, -19\"<br /><br />If you enter the ID's without the "
+"minus then it'll show ONLY posts in those categories.<br /><br />Get the ID "
+"at <b>Posts -> Categories</b>."
+msgstr ""
+
+#: customizer/customizer-options.php:453
+msgid "Remove Blog & Archive Page Titles"
+msgstr ""
+
+#: customizer/customizer-options.php:460
+msgid "Remove text before Archive Title"
+msgstr ""
+
+#: customizer/customizer-options.php:463
+msgid ""
+"This will not update in the Customizer. Exit the Customizer to view the "
+"change"
+msgstr ""
+
+#: customizer/customizer-options.php:470
+msgid ""
+"<b>Premium Extra Features:</b><br />- Set Blog, Archives and Single pages to "
+"Left Sidebar<br />- Set Blog, Archives and Single pages to Full Width<br />- "
+"Set Blog list & archives to use post summary<br />- Extra summary "
+"settings<br />- Set custom Blocks layout columns<br />- Set spacing of "
+"Blocks layout<br />- Change Blocks styling (Image or Post layouts)"
+msgstr ""
+
+#: customizer/customizer-options.php:477
+msgid "Blog Single Posts"
+msgstr ""
+
+#: customizer/customizer-options.php:484 customizer/customizer-options.php:587
+msgid "Standard"
+msgstr ""
+
+#: customizer/customizer-options.php:485 customizer/customizer-options.php:588
+msgid "Page Banner"
+msgstr ""
+
+#: customizer/customizer-options.php:489 customizer/customizer-options.php:592
+msgid "Featured Image Layout"
+msgstr ""
+
+#: customizer/customizer-options.php:496 customizer/customizer-options.php:599
+msgid "Extra Small Banner"
+msgstr ""
+
+#: customizer/customizer-options.php:497 customizer/customizer-options.php:600
+msgid "Small Banner"
+msgstr ""
+
+#: customizer/customizer-options.php:498 customizer/customizer-options.php:601
+msgid "Medium Banner"
+msgstr ""
+
+#: customizer/customizer-options.php:499 customizer/customizer-options.php:602
+msgid "Large Banner"
+msgstr ""
+
+#: customizer/customizer-options.php:500 customizer/customizer-options.php:603
+msgid "Use Proper Image"
+msgstr ""
+
+#: customizer/customizer-options.php:504 customizer/customizer-options.php:607
+msgid "Page Banner Size"
+msgstr ""
+
+#: customizer/customizer-options.php:529 customizer/customizer-options.php:617
+msgid ""
+"<b>Premium Extra Features:</b><br />- Set Featured Image banner to Full Width"
+msgstr ""
+
+#: customizer/customizer-options.php:537 customizer/customizer-options.php:988
+msgid "Pages"
+msgstr ""
+
+#: customizer/customizer-options.php:544
+msgid "Sidebar Blocks"
+msgstr ""
+
+#: customizer/customizer-options.php:551
+msgid "Remove all Page Titles"
+msgstr ""
+
+#: customizer/customizer-options.php:558
+msgid "Sidebar Title Size"
+msgstr ""
+
+#: customizer/customizer-options.php:565
+msgid "Left Align Title"
+msgstr ""
+
+#: customizer/customizer-options.php:571
+msgid "Plain"
+msgstr ""
+
+#: customizer/customizer-options.php:572
+msgid "Underlined Dots"
+msgstr ""
+
+#: customizer/customizer-options.php:573
+msgid "Underlined Solid"
+msgstr ""
+
+#: customizer/customizer-options.php:574
+msgid "Short Underline"
+msgstr ""
+
+#: customizer/customizer-options.php:578
+msgid "Widget Title Styling"
+msgstr ""
+
+#: customizer/customizer-options.php:625 customizer/customizer-options.php:1005
+msgid "Footer"
+msgstr ""
+
+#: customizer/customizer-options.php:632
+msgid "Standard Layout"
+msgstr ""
+
+#: customizer/customizer-options.php:633
+msgid "Social Layout"
+msgstr ""
+
+#: customizer/customizer-options.php:638
+msgid "Footer Layout"
+msgstr ""
+
+#: customizer/customizer-options.php:647
+msgid "Set Footer to Full Width"
+msgstr ""
+
+#: customizer/customizer-options.php:654
+msgid "Switch Bottom Bar"
+msgstr ""
+
+#: customizer/customizer-options.php:663
+msgid ""
+"<b>Premium Extra Features:</b><br />- Change Site Attribution text<br />- "
+"New Custom Footer layout<br />- Edit Custom Columns amount and Custom "
+"Widths<br />- Remove Social Icons<br />- Remove Footer bottom bar<br />- "
+"Adjust Footer top & bottom padding"
+msgstr ""
+
+#: customizer/customizer-options.php:674 functions.php:321
+msgid "WooCommerce"
+msgstr ""
+
+#: customizer/customizer-options.php:681
+msgid "Remove Product Border"
+msgstr ""
+
+#: customizer/customizer-options.php:688
+msgid "Remove Shop Page Titles"
+msgstr ""
+
+#: customizer/customizer-options.php:697
+msgid ""
+"<b>Premium Extra Features:</b><br />- Set Products Per Page<br />- Set "
+"Products Per Row<br />- Set Shop, Archives and Product pages to Left "
+"Sidebar<br />- Set Shop, Archives and Product pages to Full Width"
+msgstr ""
+
+#: customizer/customizer-options.php:707
+msgid "Avant Font Settings"
+msgstr ""
+
+#: customizer/customizer-options.php:717
+msgid "Title/Tagline Fonts"
+msgstr ""
+
+#: customizer/customizer-options.php:724
+msgid "Site Title Font"
+msgstr ""
+
+#: customizer/customizer-options.php:732
+msgid "Site Title Size"
+msgstr ""
+
+#: customizer/customizer-options.php:739
+msgid "Site Tagline Font"
+msgstr ""
+
+#: customizer/customizer-options.php:747
+msgid "Site Tagline Size"
+msgstr ""
+
+#: customizer/customizer-options.php:754
+msgid "Site Title Bottom Margin"
+msgstr ""
+
+#: customizer/customizer-options.php:757
+msgid "This will set the space between the site title and the site tagline"
+msgstr ""
+
+#: customizer/customizer-options.php:765
+msgid "Site Fonts"
+msgstr ""
+
+#: customizer/customizer-options.php:772
+msgid "Body Font"
+msgstr ""
+
+#: customizer/customizer-options.php:780
+msgid "Body Font Color"
+msgstr ""
+
+#: customizer/customizer-options.php:788
+msgid "Heading Font"
+msgstr ""
+
+#: customizer/customizer-options.php:796 customizer/customizer-options.php:1019
+msgid "Heading Font Color"
+msgstr ""
+
+#: customizer/customizer-options.php:803
+msgid "Page Title Color"
+msgstr ""
+
+#: customizer/customizer-options.php:810
+msgid "Blog List Title Color"
+msgstr ""
+
+#: customizer/customizer-options.php:817
+msgid "Sidebar Widget Title Color"
+msgstr ""
+
+#: customizer/customizer-options.php:826
+msgid "WooCommerce Product Title Size"
+msgstr ""
+
+#: customizer/customizer-options.php:833
+msgid "WooCommerce Product Title Color"
+msgstr ""
+
+#: customizer/customizer-options.php:845
+msgid "Avant Layout Colors"
+msgstr ""
+
+#: customizer/customizer-options.php:854
+msgid "Default Colors"
+msgstr ""
+
+#: customizer/customizer-options.php:861
+msgid "Site Boxed Background Color"
+msgstr ""
+
+#: customizer/customizer-options.php:869
+msgid "Primary Color"
+msgstr ""
+
+#: customizer/customizer-options.php:877
+msgid "Secondary Color"
+msgstr ""
+
+#: customizer/customizer-options.php:894
+msgid "Top Bar Background Color"
+msgstr ""
+
+#: customizer/customizer-options.php:901
+msgid "Top Bar Font Color"
+msgstr ""
+
+#: customizer/customizer-options.php:908 customizer/customizer-options.php:945
+#: customizer/customizer-options.php:1012
+msgid "Background Color"
+msgstr ""
+
+#: customizer/customizer-options.php:915 customizer/customizer-options.php:952
+#: customizer/customizer-options.php:1026
+msgid "Font Color"
+msgstr ""
+
+#: customizer/customizer-options.php:922
+msgid "Header Opacity"
+msgstr ""
+
+#: customizer/customizer-options.php:938
+msgid "Navigation"
+msgstr ""
+
+#: customizer/customizer-options.php:959
+msgid "Drop Down Bg Color"
+msgstr ""
+
+#: customizer/customizer-options.php:966
+msgid "Drop Down Font Color"
+msgstr ""
+
+#: customizer/customizer-options.php:973
+msgid "Drop Down Opacity"
+msgstr ""
+
+#: customizer/customizer-options.php:995
+msgid "Content Background Color"
+msgstr ""
+
+#: customizer/customizer-options.php:1034
+msgid "Bottom Bar Bg Color"
+msgstr ""
+
+#: customizer/customizer-options.php:1041
+msgid "Bottom Bar Font Color"
+msgstr ""
+
+#: customizer/customizer-options.php:1052
+msgid "Avant Theme Text"
+msgstr ""
+
+#: customizer/customizer-options.php:1067
+msgid "Phone Number Icon"
+msgstr ""
+
+#: customizer/customizer-options.php:1070
+msgid ""
+"Add your own custom icon by pasting the corrent <a href=\"http://fontawesome."
+"io/icons/#brand\" target=\"_blank\">Font Awesome</a> class here<br />Eg: "
+"\"fa-phone\"<br />Or enter a space to remove the icon"
+msgstr ""
+
+#: customizer/customizer-options.php:1071
+msgid "fa-phone"
+msgstr ""
+
+#: customizer/customizer-options.php:1075
+msgid "Phone Number"
+msgstr ""
+
+#: customizer/customizer-options.php:1078
+#: templates/header/header-layout-five.php:15
+#: templates/header/header-layout-four.php:15
+#: templates/header/header-layout-one.php:15
+#: templates/header/header-layout-seven.php:15
+#: templates/header/header-layout-six.php:22
+#: templates/header/header-layout-three.php:15
+#: templates/header/header-layout-two.php:15
+msgid "Call Us: +2782 444 YEAH"
+msgstr ""
+
+#: customizer/customizer-options.php:1082
+msgid "Address Icon"
+msgstr ""
+
+#: customizer/customizer-options.php:1085
+msgid ""
+"Add your custom icon from <a href=\"http://fontawesome.io/icons/#brand\" "
+"target=\"_blank\">Font Awesome</a>"
+msgstr ""
+
+#: customizer/customizer-options.php:1086
+msgid "fa-map-marker"
+msgstr ""
+
+#: customizer/customizer-options.php:1090
+msgid "Address"
+msgstr ""
+
+#: customizer/customizer-options.php:1093
+msgid "Cape Town, South Africa"
+msgstr ""
+
+#: customizer/customizer-options.php:1099
+msgid "<b>Premium Extra Features:</b><br />- Add extra text to Header"
+msgstr ""
+
+#: customizer/customizer-options.php:1106
+msgid "404 Error / No Results"
+msgstr ""
+
+#: customizer/customizer-options.php:1113
+msgid "404 Error Page Heading"
+msgstr ""
+
+#: customizer/customizer-options.php:1120
+msgid "Error 404 Message"
+msgstr ""
+
+#: customizer/customizer-options.php:1127
+msgid "No Search Results Heading"
+msgstr ""
+
+#: customizer/customizer-options.php:1130
+#: templates/contents/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: customizer/customizer-options.php:1134
+msgid "No Search Results"
+msgstr ""
+
+#: customizer/customizer-options.php:1137
+#: templates/contents/content-none.php:24
+#: templates/contents/content-none.php:28
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: customizer/customizer-options.php:1146
+msgid "Avant Social Links"
+msgstr ""
+
+#: customizer/customizer-options.php:1152
+msgid "Email Address"
+msgstr ""
+
+#: customizer/customizer-options.php:1158
+msgid "Skype Name"
+msgstr ""
+
+#: customizer/customizer-options.php:1164
+msgid "Facebook"
+msgstr ""
+
+#: customizer/customizer-options.php:1170
+msgid "Twitter"
+msgstr ""
+
+#: customizer/customizer-options.php:1176
+msgid "Pinterest"
+msgstr ""
+
+#: customizer/customizer-options.php:1182
+msgid "LinkedIn"
+msgstr ""
+
+#: customizer/customizer-options.php:1188
+msgid "Tumblr"
+msgstr ""
+
+#: customizer/customizer-options.php:1194
+msgid "Flickr"
+msgstr ""
+
+#: customizer/customizer-options.php:1200
+msgid "VK"
+msgstr ""
+
+#: customizer/customizer-options.php:1206
+msgid "GitHub"
+msgstr ""
+
+#: customizer/customizer-options.php:1214
+msgid ""
+"<b>Premium Extra Features:</b><br />- Premium offers a bunch of extra Social "
+"Links<br />- Plus 2 custom inputs for your own links"
+msgstr ""
+
+#: functions.php:74
+msgid "Top Bar Menu"
+msgstr ""
+
+#: functions.php:75
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:76
+msgid "Footer Bar Menu"
+msgstr ""
+
+#: functions.php:115
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:124
+msgid "Avant Footer Standard"
+msgstr ""
+
+#: functions.php:126
+msgid "The footer will divide into however many widgets are placed here."
+msgstr ""
+
+#: functions.php:326
+msgid "Elementor Page Builder"
+msgstr ""
+
+#: functions.php:331
+msgid "Breadcrumb NavXT"
+msgstr ""
+
+#: functions.php:336
+msgid "Meta Slider"
+msgstr ""
+
+#: includes/avant-pro/class-customize.php:76
+msgid "Avant"
+msgstr ""
+
+#: includes/avant-pro/class-customize.php:77
+msgid "Upgrade to Premium"
+msgstr ""
+
+#: includes/inc/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: includes/inc/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#: includes/inc/class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: includes/inc/class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: includes/inc/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: includes/inc/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: includes/inc/class-tgm-plugin-activation.php:386
+#: includes/inc/class-tgm-plugin-activation.php:827
+#: includes/inc/class-tgm-plugin-activation.php:2533
+#: includes/inc/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: includes/inc/class-tgm-plugin-activation.php:387
+#: includes/inc/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: includes/inc/class-tgm-plugin-activation.php:388
+#: includes/inc/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/inc/class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: includes/inc/class-tgm-plugin-activation.php:392
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: includes/inc/class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: includes/inc/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: includes/inc/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: includes/inc/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: includes/inc/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: includes/inc/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: includes/inc/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: includes/inc/class-tgm-plugin-activation.php:934
+#: includes/inc/class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: includes/inc/class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: includes/inc/class-tgm-plugin-activation.php:1092
+msgid "See more on using the Avant theme"
+msgstr ""
+
+#: includes/inc/class-tgm-plugin-activation.php:1121
+#: includes/inc/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: includes/inc/class-tgm-plugin-activation.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: includes/inc/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: includes/inc/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: includes/inc/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: includes/inc/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: includes/inc/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: includes/inc/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: includes/inc/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: includes/inc/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: includes/inc/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: includes/inc/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: includes/inc/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#: includes/inc/class-tgm-plugin-activation.php:2342
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: includes/inc/class-tgm-plugin-activation.php:2392
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/inc/class-tgm-plugin-activation.php:2396
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/inc/class-tgm-plugin-activation.php:2400
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/inc/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: includes/inc/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: includes/inc/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: includes/inc/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: includes/inc/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: includes/inc/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: includes/inc/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: includes/inc/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: includes/inc/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: includes/inc/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#: includes/inc/class-tgm-plugin-activation.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: includes/inc/class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: includes/inc/class-tgm-plugin-activation.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: includes/inc/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: includes/inc/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: includes/inc/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: includes/inc/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: includes/inc/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: includes/inc/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: includes/inc/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: includes/inc/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: includes/inc/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: includes/inc/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: includes/inc/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#: includes/inc/class-tgm-plugin-activation.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/inc/class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: includes/inc/class-tgm-plugin-activation.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: includes/inc/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: includes/inc/class-tgm-plugin-activation.php:3509
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: includes/inc/class-tgm-plugin-activation.php:3509
+#: includes/inc/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr ""
+
+#: includes/inc/class-tgm-plugin-activation.php:3509
+#: includes/inc/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#: includes/inc/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: includes/inc/class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/inc/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: includes/inc/class-tgm-plugin-activation.php:3517
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: includes/inc/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#: includes/inc/class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/inc/template-tags.php:28
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: includes/inc/template-tags.php:33
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#: includes/inc/template-tags.php:50 includes/inc/template-tags.php:56
+msgid ", "
+msgstr ""
+
+#: includes/inc/template-tags.php:52
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: includes/inc/template-tags.php:58
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: includes/inc/template-tags.php:64
+msgid "Leave a comment"
+msgstr ""
+
+#: includes/inc/template-tags.php:64
+msgid "1 Comment"
+msgstr ""
+
+#: includes/inc/template-tags.php:64
+msgid "% Comments"
+msgstr ""
+
+#: includes/inc/woocommerce-header-inc.php:9
+#: templates/header/header-layout-five.php:83
+#: templates/header/header-layout-four.php:81
+#: templates/header/header-layout-one.php:53
+#: templates/header/header-layout-seven.php:121
+#: templates/header/header-layout-six.php:58
+#: templates/header/header-layout-three.php:75
+#: templates/header/header-layout-two.php:90
+msgid "View your shopping cart"
+msgstr ""
+
+#: includes/inc/woocommerce-header-inc.php:11
+#: templates/header/header-layout-five.php:85
+#: templates/header/header-layout-four.php:83
+#: templates/header/header-layout-one.php:55
+#: templates/header/header-layout-seven.php:123
+#: templates/header/header-layout-six.php:60
+#: templates/header/header-layout-three.php:77
+#: templates/header/header-layout-two.php:92
+#, php-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: searchform.php:9
+msgctxt "placeholder"
+msgid "Search &amp; hit enter&hellip;"
+msgstr ""
+
+#: searchform.php:11
+msgctxt "submit button"
+msgid "&nbsp;"
+msgstr ""
+
+#: templates/contents/content-none.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: templates/contents/content-page.php:27
+#: templates/contents/content-search.php:126
+#: templates/contents/content-single.php:32 templates/contents/content.php:126
+msgid "Pages:"
+msgstr ""
+
+#: templates/contents/content-search.php:56
+#: templates/contents/content-search.php:119 templates/contents/content.php:56
+#: templates/contents/content.php:119
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: templates/footer/footer-none.php:3 templates/footer/footer-standard.php:20
+#, php-format
+msgid ""
+"<div class=\"site-container\"><div class=\"site-footer-bottom-bar-left"
+"\">Theme: %1$s by %2$s</div><div class=\"site-footer-bottom-bar-right\">"
+msgstr ""
+
+#: templates/footer/footer-social.php:8 templates/social-links.php:3
+msgid "Send Us an Email"
+msgstr ""
+
+#: templates/footer/footer-social.php:12 templates/social-links.php:7
+msgid "Contact Us on Skype"
+msgstr ""
+
+#: templates/footer/footer-social.php:16 templates/social-links.php:11
+msgid "Find Us on Facebook"
+msgstr ""
+
+#: templates/footer/footer-social.php:20 templates/social-links.php:15
+msgid "Follow Us on Twitter"
+msgstr ""
+
+#: templates/footer/footer-social.php:24 templates/social-links.php:19
+msgid "Find Us on Pinterest"
+msgstr ""
+
+#: templates/footer/footer-social.php:28 templates/social-links.php:23
+msgid "Find Us on LinkedIn"
+msgstr ""
+
+#: templates/footer/footer-social.php:32 templates/social-links.php:27
+msgid "Find Us on Tumblr"
+msgstr ""
+
+#: templates/footer/footer-social.php:36 templates/social-links.php:31
+msgid "Find Us on Flickr"
+msgstr ""
+
+#: templates/footer/footer-social.php:40 templates/social-links.php:35
+msgid "Find Us on VK"
+msgstr ""
+
+#: templates/footer/footer-social.php:44 templates/social-links.php:39
+msgid "Find Us on GitHub"
+msgstr ""
+
+#: templates/footer/footer-social.php:47
+#, php-format
+msgid "<div class=\"site-footer-social-copy\">Theme: %1$s by %2$s"
+msgstr ""
+
+#: templates/footer/footer-standard.php:11
+msgid "Add your own widgets here"
+msgstr ""
+
+#: templates/header/header-layout-five.php:72
+#: templates/header/header-layout-four.php:70
+#: templates/header/header-layout-one.php:44
+#: templates/header/header-layout-seven.php:110
+#: templates/header/header-layout-six.php:49
+#: templates/header/header-layout-three.php:98
+#: templates/header/header-layout-two.php:75
+msgid "menu"
+msgstr ""
+
+#: templates/slider/homepage-slider.php:160
+msgid "Paint A Picture"
+msgstr ""
+
+#: templates/slider/homepage-slider.php:162
+msgid ""
+"Are you shopping anywhere, changed the color of your hair, are you busy?"
+msgstr ""
+
+#: templates/titlebar.php:19
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: upgrade/tpl/upgrade-page.php:4 upgrade/upgrade.php:13
+msgid "About Avant"
+msgstr ""
+
+#: upgrade/tpl/upgrade-page.php:13
+msgid "<span>Avant Premium </span><em>$29</em>"
+msgstr ""
+
+#: upgrade/tpl/upgrade-page.php:18
+#, php-format
+msgid ""
+"<strong>All settings for Avant</strong> are neatly built into the <a href="
+"\"%s\">WordPress Customizer</a> so you can change and edit settings to view "
+"what happens before saving and making any of the changes live"
+msgstr ""
+
+#: upgrade/tpl/upgrade-page.php:21
+#, php-format
+msgid ""
+"Help on how to <strong><a href=\"%s\" target=\"_blank\">install the premium "
+"theme</a></strong>"
+msgstr ""
+
+#: upgrade/tpl/upgrade-page.php:31
+msgid "Avant Premium is a once off payment of $29"
+msgstr ""
+
+#: upgrade/tpl/upgrade-page.php:35
+msgid ""
+"View the Avant Premium Demo, and try out all the settings neatly built into "
+"the Customizer"
+msgstr ""
+
+#: upgrade/tpl/upgrade-page.php:39
+msgid "Avant Premium Demo"
+msgstr ""
+
+#: upgrade/tpl/upgrade-page.php:46
+msgid "Download a working Child Theme for Avant"
+msgstr ""
+
+#: upgrade/tpl/upgrade-page.php:47
+#, php-format
+msgid ""
+"Or learn more on creating/editing a <a href=\"%s\" target=\"_blank\">Child "
+"Theme</a>"
+msgstr ""
+
+#: upgrade/tpl/upgrade-page.php:51
+msgid "Avant Child Theme"
+msgstr ""
+
+#: upgrade/tpl/upgrade-page.php:58
+msgid ""
+"We have on-growing documentation on setting up your website with the Avant "
+"theme"
+msgstr ""
+
+#: upgrade/tpl/upgrade-page.php:62
+msgid "Documentation"
+msgstr ""
+
+#: upgrade/tpl/upgrade-page.php:69
+msgid "Have you enjoyed using Avant?"
+msgstr ""
+
+#: upgrade/tpl/upgrade-page.php:70
+msgid "Please help by giving us a rating on WordPress.org :)"
+msgstr ""
+
+#: upgrade/tpl/upgrade-page.php:74
+msgid "Give Avant a rating"
+msgstr ""
+
+#: upgrade/tpl/upgrade-page.php:79
+#, php-format
+msgid "Theme: Avant, built by <a href=\"%s\" target=\"_blank\">Kaira</a>"
+msgstr ""
+
+#: upgrade/tpl/upgrade-page.php:88
+msgid ""
+"We aim to keep our prices cheaper than other theme shops, while still "
+"offering you the best WordPress themes."
+msgstr ""
+
+#: upgrade/tpl/upgrade-page.php:90
+msgid ""
+"Upgrading will support us and enable us to keep building WordPress themes."
+msgstr ""
+
+#: upgrade/tpl/upgrade-page.php:92
+#, php-format
+msgid ""
+"If you like our themes and/or found our support helpful, please let us know "
+"by <a href='%s' target='_blank'>giving us a review</a>."
+msgstr ""
+
+#: upgrade/tpl/upgrade-page.php:96
+msgid "Theme Ratings"
+msgstr ""
+
+#: upgrade/tpl/upgrade-page.php:108
+msgid "SpySunny"
+msgstr ""
+
+#: upgrade/tpl/upgrade-page.php:111
+msgid "Very user-friendly theme with excellent support."
+msgstr ""
+
+#: upgrade/tpl/upgrade-page.php:117
+msgid "Fitoni"
+msgstr ""
+
+#: upgrade/tpl/upgrade-page.php:120
+msgid ""
+"What a great theme!! been using it for a long time, very clean code, easy to "
+"use, easy to customize, really cant say any wrong about it!!!<br /><br /"
+">Give it a try and you will not be dissapointed! this theme is THE BEST!!"
+msgstr ""
+
+#: upgrade/tpl/upgrade-page.php:126
+msgid "NayWordPress"
+msgstr ""
+
+#: upgrade/tpl/upgrade-page.php:129
+msgid ""
+"I've purchased the Premium Theme for my Online Store. Very awesome! Support "
+"assistance 100&#37; available, easy to customize. I recommend it to everyone "
+"who want to build a Store Online. Really practicable for E-commerce."
+msgstr ""
